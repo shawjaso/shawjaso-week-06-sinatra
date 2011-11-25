@@ -5,6 +5,7 @@ gem 'twitter'
 gem 'heroku'
 gem 'haml'
 gem 'rake'
+gem 'rake'
 
 group :test do
   gem 'guard'
